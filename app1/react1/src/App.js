@@ -1,16 +1,20 @@
 import React from 'react';
-//import logo from './logo.svg';
-import './App.css';
-//import Navbar from './component/Navbar';
 import Navbar from './component/Navbar';
-
+//import Sidebar from './component/Sidebar';
+import Content from './component/Content';
+import Footer from './component/Footer';
 
 function App() {
   return (
-    <>
-    <Navbar/>
-    </>
-);
+    <div>
+      <Navbar />
+      <Content />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
+
+
+
