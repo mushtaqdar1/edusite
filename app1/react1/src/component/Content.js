@@ -5,8 +5,7 @@ function Content() {
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
       <h2>Main Content Section</h2>
       <p>
-        Welcome to the content section of this website! Here, you can add paragraphs, images, or other elements to
-        display the information you want to share with your visitors. Customize this content to suit your needs.
+        Welcome to the content section of this website! Here
       </p>
       <ul>
         <li>Feature 1: Fully Responsive</li>
