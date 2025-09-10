@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748356818 source:d:\gcet\semester 2\pl\c\basic\swit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1748233628 source:d:\gcet\semester 2\pl\c\basic\swit\sto.c
+
+1746633638 source:d:\gcet\semester 2\pl\c\c_reserved.c
+	<stdio.h>
+

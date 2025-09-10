@@ -1,0 +1,6 @@
+#ifndef HELLO_MESSAGE_H_INCLUDED
+#define HELLO_MESSAGE_H_INCLUDED
+
+void print_hello();
+
+#endif // HELLO_MESSAGE_H_INCLUDED

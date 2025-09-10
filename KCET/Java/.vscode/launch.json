@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Array_2",
+      "request": "launch",
+      "mainClass": "Array_2",
+      "projectName": "Java_8f33f6db"
+    },
+    {
+      "type": "java",
+      "name": "UserInputExample",
+      "request": "launch",
+      "mainClass": "UserInputExample",
+      "projectName": "Java_8f33f6db"
+    },
+    {
+      "args": [
+        "--extensionDevelopmentPath=${workspaceFolder}"
+      ],
+      "name": "Launch Extension",
+      "outFiles": [
+        "${workspaceFolder}/out/**/*.js"
+      ],
+      "preLaunchTask": "npm",
+      "request": "launch",
+      "type": "extensionHost"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/GCET/Semester 3/Java",
+      "program": "d:/GCET/Semester 3/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

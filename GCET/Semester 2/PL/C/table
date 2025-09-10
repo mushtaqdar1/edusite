@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int i = 1, product = 1, n;
+
+    printf("Enter a number: ");
+    scanf("%d", &n);
+
+    while (i <= 10) {
+        product = n * i;  // Corrected multiplication logic
+        printf("Product of %d x %d = %d\n", n, i, product);
+        i++;
+    }
+
+    return 0;
+}
