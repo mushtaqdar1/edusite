@@ -1,0 +1,19 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Modular academic website with Node.js and MySQL",
+  "main": "public/css/app.js",
+  "scripts": {
+    "start": "node public/css/app.js"
+  },
+  "keywords": [],
+  "author": "Mushtaq",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "ejs": "^3.1.9",
+    "express": "^4.21.2",
+    "mysql2": "^3.15.0"
+  }
+}
